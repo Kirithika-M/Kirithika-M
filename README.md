@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-- 🎓 B.Tech CSE (AI & ML) at **SRM Institute of Science and Technology** — CGPA 9.94/10
+- 🎓 B.Tech CSE (AI & ML) Undergraduate at **SRM Institute of Science and Technology** — CGPA 9.94/10
 - 🧠 Currently working as **AI Engineering Intern at ZeroEka (Nirmaan, IIT Madras)** — building OCR + LLM/RAG pipelines for AI-powered answer sheet evaluation
 - 👁️ Also interning as **AI/ML Intern at Datalens** — building YOLO + OpenCV pipelines for UI element detection and automation
 - 🛰️ Interested in Machine Learning and its domains - Deep Learning, Computer Vision, Natural Language Processing, Agentic AI
