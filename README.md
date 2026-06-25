@@ -66,13 +66,18 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kirithika-M&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirithika-M&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kirithika-M&theme=tokyonight" width="60%" />
 </p>
+
+---
+
+### 📊 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/Kirithika-M?theme=dark&font=Noto%20Sans%20Wancho&ext=heatmap)
 
 ---
 
